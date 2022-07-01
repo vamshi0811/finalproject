@@ -1,0 +1,2 @@
+Refactoring Type	Source Entity	Target Class	Source/Target accessed members	Rate it!
+Move Method	com.microsoft.azure.kusto.data.ClientImpl::generateCommandPayload(java.lang.String, java.lang.String, com.microsoft.azure.kusto.data.ClientRequestProperties, java.lang.String):java.lang.String	com.microsoft.azure.kusto.data.ClientRequestProperties	0/1	

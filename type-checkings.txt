@@ -1,0 +1,1 @@
+com.microsoft.azure.kusto.data.ClientImpl::private long determineTimeout(com.microsoft.azure.kusto.data.ClientRequestProperties, com.microsoft.azure.kusto.data.CommandType) 
